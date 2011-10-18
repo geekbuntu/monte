@@ -1,5 +1,5 @@
 // Monte 1.0 - a carousel plugin for jQuery 1.3+
-// Copyright (c) 2011 Jack Moore - jack@colorpowered.com
+// Copyright (c) 2011 Jack Moore - jacklmoore.com
 // Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
 (function ($) {
     $.monte = function (selector, options) {
